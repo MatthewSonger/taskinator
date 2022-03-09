@@ -6,3 +6,4 @@ Taskinator is a task managing app that allows to to add tasks, edit them, delete
 
 ## Live Site
 
+https://matthewsonger.github.io/taskinator/
